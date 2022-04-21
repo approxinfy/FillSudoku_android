@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FillSudoku</string>
+    <string name="sudoku_input">Sudoku Input</string>
+    <string name="solve_it">Solve it</string>
+    <string name="sudoku_input_image">sudoku input image</string>
+    <string name="pick_image">Pick Image</string>
+</resources>
